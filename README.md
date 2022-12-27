@@ -13,6 +13,8 @@ Esta aplicação é uma ferramenta de geração de QR Code a partir de um campo 
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+[Pré-visualização](https://challenge-qrcode-generator.netlify.app "Gerador de QR Code")
+
 # 🚀 Como executar o projeto
 
 ```bash
